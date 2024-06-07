@@ -1,8 +1,12 @@
 # neuroimaging-zombies-ohbm-2024
-Utilities for a neuroimaging zombies project at OHBM 2024 Hackathon.
+Join our Mattermost channel at [brainhack.org](https://mattermost.brainhack.org/brainhack/channels/neuroimaging-zombies), and check these slides to learn more about the project at [osf.io](https://osf.io/fvqn7/).
 
-Here are the projects we propose for OHBM Brainhack 2024.
-But overall, let's keep discussing about the issuue!
+Neuroimaging zombies are published results which no one knows if they are  true or false, dead or alive: they  just stick around so that people who believe in them can still cite them! We would rather like to see living neuroimaging results: results that can be replicated if sensible choices of population and methods are used. Living results can be reproduced: using the same data and the same approach/code, we should be able to get the same results. Even more, living results can be replicated: using reasonably similar data and reasonably similar approach/code, we should be able to get a reasonably similar result.
+
+The aim of this project is to devise a strategy for killing neuroimaging zombies, and also for preventing your own results from turning into zombies!
+Open data is our main weapon against neuroimaging zombies, and we would like to make it shine. We would like to use open, public data to its full extent. Through a community effort, our aim will be to provide **reference preprocessing** for all open data, for all the main tools used in neuroimaging and their different versions. We would like this preprocessing to be available on a public server, accessible to everyone: Never again you should need to process public data yourself! We should then be able to start creating **reference quality control** for this data, following a standardised procedure. Finally, we would like to provide **reference statistical analysis pipelines** necessary to reproducing and replicating the core results of neuroimaging. This will be a set of core living neuroimaging results to which new living neuroimaging results should be progressively added. A living neuroimaging result will look like a code repo: with versioning and automatic testing, which will serve as a constant check of its vital signs.
+
+Join us and let’s work together on some of these projects:
 
 ## Preprocess a public dataset with your favorite tool and upload the results to GIN
 
